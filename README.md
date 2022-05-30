@@ -5,3 +5,7 @@
 # Для неявного подключения и создания библиотеки
 Чтобы создать библиотеку и неявно ее подключить прочитать документацию
 https://docs.microsoft.com/ru-ru/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-170
+
+
+![Снимок экрана (7)](https://user-images.githubusercontent.com/86187865/171018278-51d5e30c-67c3-4fdf-8438-38676b443590.png)
+![Снимок экрана (8)](https://user-images.githubusercontent.com/86187865/171018577-eda6fe09-16ca-4e25-9041-ef080d958f4e.png)
